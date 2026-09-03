@@ -1,0 +1,1 @@
+# V1 uses OpenCode built-in tools and has no custom Python dependencies.
